@@ -2,13 +2,13 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <!--Trying to be a software developer...
----------------------------------------------------------->
+----------------------------------------------------------
 
 Pinned repositories are mostly Android stuff.
 
 I also work at <a href="https://github.com/derpfest-aosp">DerpFest</a> as developer, and <a href="https://github.com/mer-hybris">SailfishOS</a> as developer.
 
-I currently use Android and ArchLinux in my daily life.
+I currently use Android and ArchLinux in my daily life.-->
 
 ```bash
 printf "Hello world"
